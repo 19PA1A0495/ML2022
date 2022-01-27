@@ -16,4 +16,4 @@ I've created three classification models:
 3. SVM classifier
 
 Here is the link to the dataset:  
-kaggle kernels output hrishitasarkar/drug-classification-kaggle-problem -p /path/to/dest
+https://www.kaggle.com/hrishitasarkar/drug-classification-kaggle-problem/data
